@@ -25,15 +25,6 @@ menu:
     - name: About
       pageRef: /about
       weight: 1
-    - name: Meetings
-      pageRef: /meetings
-      weight: 2
-    - name: Handbook
-      pageRef: /handbook
-      weight: 3
-    - name: Join
-      url: "/join"
-      weight: 4
     - name: Search
       weight: 5
       params:
@@ -49,7 +40,7 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: img/logo.png
+      path: img/logo.svg
     width: wide
   
   page:
@@ -62,7 +53,7 @@ params:
   footer:
     enable: true
     displayCopyright: false
-    displayPoweredBy: true
+    displayPoweredBy: false
     width: normal
   
   displayUpdatedDate: true

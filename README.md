@@ -29,6 +29,8 @@ hugo server --logLevel debug --disableFastRender -p 1313
 
 ### Update theme
 
+This is based on the [hextra](https://imfing.github.io/hextra/) theme.
+
 ```shell
 hugo mod get -u
 hugo mod tidy
