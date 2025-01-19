@@ -1,4 +1,4 @@
-module github.com/imfing/hextra-starter-template
+module github.com/oasci/crumblearn.org
 
 go 1.21
 
