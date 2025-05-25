@@ -1,2 +1,4 @@
-github.com/imfing/hextra v0.9.4 h1:k1KEC2mtYbMVBMOYUYK5Yy8pNPpIH3u6pBTRyBSN6No=
-github.com/imfing/hextra v0.9.4/go.mod h1:cEfel3lU/bSx7lTE/+uuR4GJaphyOyiwNR3PTqFTXpI=
+github.com/oasci/breadpan v0.0.0-20250525034600-18b7f728021d h1:RWqHCRDxiD2xkqttxXdeVmC0aSfWUZJkJCqQXtWEkyM=
+github.com/oasci/breadpan v0.0.0-20250525034600-18b7f728021d/go.mod h1:nW9uC7oVM13OWe8K23wHY+Pqr0osFS1aon8ar2PZzBc=
+github.com/oasci/breadpan v0.0.0-20250525040733-cc4fbc35fa47 h1:MgdqX3iKu8gP5EM9jMKyoTGor+vrAulgCOya/KyfZ0I=
+github.com/oasci/breadpan v0.0.0-20250525040733-cc4fbc35fa47/go.mod h1:j4dWLzMnpm/fW9VjrMOnsnEHpovZeI9SxV9nJOAmHnE=
